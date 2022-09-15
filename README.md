@@ -5,7 +5,7 @@ Full Stack Developer
 
 ## :open_book: About me 
 
-:black_heart: Front End | :black_heart: Back End
+:black_heart: Back End
 
 ### ⚡Technologies
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -19,7 +19,7 @@ Full Stack Developer
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### Contact
-[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gcesario203/)
+[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cesario-04784ab2/)
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=gcesario203&count_private=true&show_icons=true&theme=dark" /> -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcesario203&langs_count=3&hide=hlsl,shaderlab&theme=dark" />
