@@ -20,9 +20,6 @@ Full Stack Developer
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 
-### Contact
-[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cesario-04784ab2/)
-
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=gcesario203&count_private=true&show_icons=true&theme=dark" /> -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcesario203&langs_count=3&hide=hlsl,shaderlab&theme=dark" />
 
