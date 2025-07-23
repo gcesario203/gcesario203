@@ -98,14 +98,3 @@
 - 📧 **Email**: [gcesario203@gmail.com](mailto:gcesario203@gmail.com)
 - 📍 **Location**: Americana, São Paulo, Brasil
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gcesario203&color=blueviolet&style=flat-square&label=Profile+Views" />
-
-  **"The best way to predict the future is to create it."** – Peter Drucker
-</div>
-
----
-
-⭐️ From [gcesario203](https://github.com/gcesario203)
