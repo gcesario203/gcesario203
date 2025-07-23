@@ -1,4 +1,4 @@
-readme_content = """# Hi there, I'm Gabriel Cesario! 👋
+# Hi there, I'm Gabriel Cesario! 👋
 
 **Software Developer** | **Especialização em Engenharia de Software - UNICAMP**  
 📍 Americana, São Paulo, Brasil
@@ -8,10 +8,9 @@ readme_content = """# Hi there, I'm Gabriel Cesario! 👋
 
 ## 🚀 About Me
 
-🎓 **Pós-graduando em Engenharia de Software** pela UNICAMP  
 💼 **Software Developer** na StrategyBox - Soluções de Meios de Pagamento  
 💻 **4+ anos de experiência** em desenvolvimento full stack  
-🔍 **Code Reviewer** com foco em qualidade e boas práticas  
+
 
 ## 💼 Professional Experience
 
@@ -66,12 +65,6 @@ readme_content = """# Hi there, I'm Gabriel Cesario! 👋
 🎓 **Bacharelado em Ciência da Computação** - Faculdade de Americana (2018-2022)  
 🎓 **Técnico em Mecânica de Usinagem** - SENAI (2013-2015)  
 
-### 📜 Certifications
-- 🏆 **Bootcamp MRV .NET Developer**
-- 🏆 **JavaScript Algorithms and Data Structures**
-- 🏆 **SOLID Express**
-- 🏆 **Linguagem de Programação C# - Avançado**
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -109,11 +102,10 @@ readme_content = """# Hi there, I'm Gabriel Cesario! 👋
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gcesario203&color=blueviolet&style=flat-square&label=Profile+Views" />
-  
+
   **"The best way to predict the future is to create it."** – Peter Drucker
 </div>
 
 ---
 
 ⭐️ From [gcesario203](https://github.com/gcesario203)
-"""
