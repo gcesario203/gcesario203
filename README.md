@@ -52,17 +52,8 @@
 
 ## 🤝 Let's Connect!
 
-- 💼 **LinkedIn**: [Gabriel Cesario](https://linkedin.com/in/gabriel-cesario)
-- 📧 **Email**: [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
-- 🌐 **Portfolio**: [seu-portfolio.com](https://seu-portfolio.com)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gcesario203&color=blueviolet&style=flat-square&label=Profile+Views" />
-
-  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
-</div>
+- 💼 **LinkedIn**: [Gabriel Cesario](https://www.linkedin.com/in/gabriel-cesario-04784ab2/)
+- 📧 **Email**: [seu.email@exemplo.com](mailto:gcesario203@gmail.com)
 
 ---
 
