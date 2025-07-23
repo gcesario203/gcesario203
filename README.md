@@ -1,6 +1,6 @@
 # Hi there, I'm Gabriel Cesario! 👋
 
-**Software Developer** | **Especialização em Engenharia de Software - UNICAMP**  
+**Software Developer** 
 📍 Americana, São Paulo, Brasil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cesario-04784ab2)
@@ -10,7 +10,7 @@
 
 💼 **Software Developer** na StrategyBox - Soluções de Meios de Pagamento  
 💻 **4+ anos de experiência** em desenvolvimento full stack  
-
+🔍 **Code Reviewer** com foco em qualidade e boas práticas  
 
 ## 💼 Professional Experience
 
@@ -63,7 +63,6 @@
 
 🎓 **Especialização em Engenharia de Software** - UNICAMP (2024-2025)  
 🎓 **Bacharelado em Ciência da Computação** - Faculdade de Americana (2018-2022)  
-🎓 **Técnico em Mecânica de Usinagem** - SENAI (2013-2015)  
 
 ## 📊 GitHub Stats
 
@@ -76,11 +75,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gcesario203&theme=dark&hide_border=true" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gcesario203&theme=darkhub&no-frame=true&margin-w=15" />
-</div>
-
 ## 🌟 Highlights
 
 - 💼 **4+ anos** de experiência em desenvolvimento full stack
@@ -89,12 +83,8 @@
 - 🚀 Experiência com **deploy em produção** e **servidores Linux**
 - 📚 Sempre em **constante aprendizado** - atualmente cursando especialização na UNICAMP
 
-## 📈 Activity Graph
-![Metrics](https://metrics.lecoq.io/gcesario203)
-
 ## 🤝 Let's Connect!
 
 - 💼 **LinkedIn**: [Gabriel Cesario](https://www.linkedin.com/in/gabriel-cesario-04784ab2)
 - 📧 **Email**: [gcesario203@gmail.com](mailto:gcesario203@gmail.com)
 - 📍 **Location**: Americana, São Paulo, Brasil
-
