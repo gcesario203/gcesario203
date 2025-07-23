@@ -81,7 +81,6 @@
 - 🎯 Especialista em **C#/.NET** e **JavaScript/TypeScript**
 - 🔍 **Code Reviewer** experiente
 - 🚀 Experiência com **deploy em produção** e **servidores Linux**
-- 📚 Sempre em **constante aprendizado** - atualmente cursando especialização na UNICAMP
 
 ## 🤝 Let's Connect!
 
